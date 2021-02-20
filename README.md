@@ -1,4 +1,4 @@
-Project Description:
+Proje Açıklaması:
 Wikipedia api kullanan bir arama uygulaması. 
 
 Canlı Demo İçin 👇
